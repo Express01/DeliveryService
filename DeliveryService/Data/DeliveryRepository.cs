@@ -15,9 +15,10 @@ namespace DeliveryService.Data
             {
                 throw new ArgumentNullException(nameof(delivery));
             }
+            _context.Deliveries.Add(delivery); 
         }
 
-        public IEnumerable<Delivery> GetDeliveries()
+        public IEnumerable<Delivery> GetAllDeliveries()
         {
            return _context.Deliveries.ToList();
         }

@@ -19,7 +19,7 @@ namespace DeliveryService.Data
                     new Delivery() { Name = "Wildberries", Description = "Маркетплейс" },
                     new Delivery() { Name = "Ozon", Description = "Маркетплейс" },
                     new Delivery() { Name = "DODO PIZZA", Description = "Ресторан быстрого питания" });
-
+                context.SaveChanges();
             };
         }
     }
