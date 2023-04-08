@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fbwqs3Cmwa5bd/xkY614fNPcVxgKzBBrHHMRkfMAR1sBMh5xsXCB3Ds144VgSDZJGaeEQOfX3FQ2QwZgdUDikQ==",
+  "dgSpecHash": "RGYqRwTBLwqqeVW/SOpTY/6NraEjl3o/ho+sy3Nj7EteyNF/UO1Y9TbJuve+qRevJVe/DZdOsRE56bn1PrCt3A==",
   "success": true,
   "projectFilePath": "D:\\DeliveryService\\DeliveryService\\DeliveryService\\DeliveryService.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\MTX2023\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\MTX2023\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
